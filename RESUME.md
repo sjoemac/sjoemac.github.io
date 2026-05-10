@@ -52,9 +52,9 @@ Data-driven bioinformatics professional with a passion for uncovering insights f
 
 ## Research and Publications
 
-- M. Liu, Y. Zhu, *S. J. McIlwain*, H. Deng, A. R. Brasier, Y. Ge, M. E. Kimple, A. M. Baschnagel, “Characterizing plasma-based metabolomic signatures for metastasis in non-small cell lung cancer”, Metabolites 15(5):340, May 20, 2025, doi: 10.3390/metabo15050340
-- J. D. Kratz, S. Rehman, K. A. Johnson, A. A. Gillette, A. Sunil, P. F. Favreau, C. A. Pasch, D. Miller, L. C. Zarling, A. H. Yeung, L. Clipson, S. J. Anderson, A. K. Steimle, C. M. Sprackling, K. K. Lemmon, D. E. Abbott, M. E. Burkard, M. F. Bassetti, J. C. Eickoff, E. F. Foley, C. P. Heise, R. J. Kimple, E. H. Lawson, N. K. LoConte, S. J. Lubner, D. L. Milkerin, K. A. Matkowskyj, C. B. Sanger, N. V. Uboha, *S. J. McIlwain*, I. M. Ong, E. H. Carchman, M. C. Skala, D. A. Deming, “Subcloncal response heterogeneity to define cancer organoid therapeutic sensitivity”, Sci Rep 15(1):12072, April 9, 2025, doi: 10.1038/s41598-025-96204-2
-- *S. J. McIlwain*, A. Hoefges, A. K. Erbe, P. M. Sondel, I. M. Ong, “Ranking antibody epitopes and proteins across samples from whole proteome tiled linear peptides”, Bioinformatics 5:btae637, Nov 5, 2024
+- M. Liu, Y. Zhu, **S. J. McIlwain**, H. Deng, A. R. Brasier, Y. Ge, M. E. Kimple, A. M. Baschnagel, “Characterizing plasma-based metabolomic signatures for metastasis in non-small cell lung cancer”, Metabolites 15(5):340, May 20, 2025, doi: 10.3390/metabo15050340
+- J. D. Kratz, S. Rehman, K. A. Johnson, A. A. Gillette, A. Sunil, P. F. Favreau, C. A. Pasch, D. Miller, L. C. Zarling, A. H. Yeung, L. Clipson, S. J. Anderson, A. K. Steimle, C. M. Sprackling, K. K. Lemmon, D. E. Abbott, M. E. Burkard, M. F. Bassetti, J. C. Eickoff, E. F. Foley, C. P. Heise, R. J. Kimple, E. H. Lawson, N. K. LoConte, S. J. Lubner, D. L. Milkerin, K. A. Matkowskyj, C. B. Sanger, N. V. Uboha, **S. J. McIlwain**, I. M. Ong, E. H. Carchman, M. C. Skala, D. A. Deming, “Subcloncal response heterogeneity to define cancer organoid therapeutic sensitivity”, Sci Rep 15(1):12072, April 9, 2025, doi: 10.1038/s41598-025-96204-2
+- **S. J. McIlwain**, A. Hoefges, A. K. Erbe, P. M. Sondel, I. M. Ong, “Ranking antibody epitopes and proteins across samples from whole proteome tiled linear peptides”, Bioinformatics 5:btae637, Nov 5, 2024
 
 List of Published Work in [MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/1l_hqbkQRi3Qq/bibliography/public/)
 
