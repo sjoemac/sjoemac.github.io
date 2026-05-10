@@ -1,7 +1,6 @@
-# Jane Doe
+# Sean Joseph McIlwain
 Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
+| [sjoemac@gmail.com](mailto:sjoemac@gmail.com)
 | [example.com](https://example.com)
 | [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
 
