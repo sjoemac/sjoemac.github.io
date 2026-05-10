@@ -12,16 +12,16 @@ Data-driven bioinformatics professional with a passion for uncovering insights f
 ### Facility Manager, University of Wisconsin-Madison
 *December 2019 - Present*
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+- Managing the Cancer Informatics Shared Resource (CISR)
+- Collaborate with multiple principal investigators to help analyze cancer related data
+- Help collaborators publish papers and prepare grant proposal using bioinformatics
 
 ### Assistant Scientist, University of Wisconsin-Madison
 *December 2015 - December 2019*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+- Analyzing RNA-Seq, ChIP-Seq, and proteomics data
+- Applying pathway analysis tools to differential gene and protein expression
+- TODO
 
 ### Bioinformatics Researcher, Great Lakes Bioenergy Research Center, University of Wisconsin-Madison
 *October 2012 - December 2015
