@@ -24,7 +24,7 @@ Data-driven bioinformatics professional with a passion for uncovering insights f
 - TODO
 
 ### Bioinformatics Researcher, Great Lakes Bioenergy Research Center, University of Wisconsin-Madison
-*October 2012 - December 2015
+*October 2012 - December 2015*
 
 - Analyzed quantitative proteomic data from different samples
 - Genome re-sequencing and annotation of microbial strains
