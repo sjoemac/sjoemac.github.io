@@ -5,7 +5,7 @@ Bioinformatician
 | [linkedin.com/in/sean-mcilwain-54405411](https://linkedin.com/in/sean-mcilwain-54405411)
 
 ## About me
-Data-driven bioinformatics professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in R, with a strong background in statistical analysis. In my free time, I enjoy biking, hiking, and martial arts.
+Data-driven bioinformatics professional with a passion for uncovering insights from data to solve data science problems. Skilled in R, with a strong background in statistical analysis. In my free time, I enjoy biking, hiking, and martial arts.
 
 ## Work Experience
 
