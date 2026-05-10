@@ -1,7 +1,7 @@
 # Sean Joseph McIlwain
 Data Analyst
 | [sjoemac@gmail.com](mailto:sjoemac@gmail.com)
-| [example.com](https://example.com)
+| [sjoemac.github.io/](https://sjoemac.github.io/)
 | [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
 
 ## About me
