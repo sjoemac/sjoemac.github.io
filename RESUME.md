@@ -46,31 +46,21 @@ Data-driven bioinformatics professional with a passion for uncovering insights f
 
 ## Skills
 
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
-
-## Certifications
-
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
+- Data Analysis: Python, R
+- Machine Learning: Torch
+- Bioinformatics: DESeq2
 
 ## Projects
 
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
-
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
 
 ## Languages
 
 - English: Fluent
-- Swahili: Native
 
 ## Interests
 
 - Hiking
-- Technology
-- Photography
+- Biking
+- Aikido
+- Karate
+  
