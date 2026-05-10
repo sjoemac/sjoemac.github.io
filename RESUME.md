@@ -32,9 +32,17 @@ Data-driven bioinformatics professional with a passion for uncovering insights f
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### Doctor of Philosophy in Computer Science  
+*University of Wisconsin - Madison*  
+*2003 - 2018*
+
+### Masters of Science in Computer Science
+*University of Wisconsin - Madison*
+*2001 - 2003*
+
+### Bachelor of Science in Chemistry
+*Montana State University - Bozeman*
+*1995 - 2000*
 
 ## Skills
 
