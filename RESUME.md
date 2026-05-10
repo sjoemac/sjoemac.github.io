@@ -2,7 +2,7 @@
 Data Analyst
 | [sjoemac@gmail.com](mailto:sjoemac@gmail.com)
 | [sjoemac.github.io/](https://sjoemac.github.io/)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+| [linkedin.com/in/sean-mcilwain-54405411](https://linkedin.com/in/sean-mcilwain-54405411)
 
 ## About me
 Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
