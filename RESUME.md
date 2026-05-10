@@ -5,23 +5,30 @@ Data Analyst
 | [linkedin.com/in/sean-mcilwain-54405411](https://linkedin.com/in/sean-mcilwain-54405411)
 
 ## About me
-Data-driven bioinformatics professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in R and Python, with a strong background in statistical analysis. In my free time, I enjoy biking, hiking, and martial arts.
+Data-driven bioinformatics professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in R, with a strong background in statistical analysis. In my free time, I enjoy biking, hiking, and martial arts.
 
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+### Facility Manager, University of Wisconsin-Madison
+*December 2019 - Present*
 
 - Utilize data analysis to optimize business operations and increase efficiency
 - Collaborate with cross-functional teams to develop predictive models
 - Lead data visualization projects to present findings to stakeholders
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
+### Assistant Scientist, University of Wisconsin-Madison
+*December 2015 - December 2019*
 
 - Assisted in cleaning and analyzing large datasets for business insights
 - Supported the development of dashboards for real-time business tracking
 - Provided actionable recommendations to improve marketing strategies
+
+### Bioinformatics Researcher, Great Lakes Bioenergy Research Center, University of Wisconsin-Madison
+*October 2012 - December 2015
+
+- Analyzed quantitative proteomic data from different samples
+- Genome re-sequencing and annotation of microbial strains
+- Developed scripts for analyzing chemical genomic datasets 
 
 ## Education
 
