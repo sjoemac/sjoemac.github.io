@@ -3,7 +3,6 @@ Bioinformatician
 | [sjoemac@gmail.com](mailto:sjoemac@gmail.com)
 | [sjoemac.github.io/](https://sjoemac.github.io/)
 | [linkedin.com/in/sean-mcilwain-54405411](https://linkedin.com/in/sean-mcilwain-54405411)
-| [PDF Version](index.pdf)
 
 ## About me
 Data-driven bioinformatics professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in R, with a strong background in statistical analysis. In my free time, I enjoy biking, hiking, and martial arts.
